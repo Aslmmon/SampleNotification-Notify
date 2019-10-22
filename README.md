@@ -1,7 +1,7 @@
 # SampleNotification-Notify
 Android Library to Recieve Notification for android Apps
  - USAGE 
- - First Add Firebase To yout project 
+ - First Add Firebase To your project 
  
  -*second Initialize Object of Notification Library Like this :*
   
